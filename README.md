@@ -4,7 +4,7 @@ This project focuses on building a complete Data Cleaning and Exploratory Data A
 
 ## 📊 Blinkit Dashboard Preview
 
-<video src="preview.mp4" width="100%" controls></video>
+![Blinkit Dashboard Preview](preview.gif)
 
 
 
