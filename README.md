@@ -2,6 +2,11 @@
 
 This project focuses on building a complete Data Cleaning and Exploratory Data Analysis (EDA) pipeline for retail sales data using Python, Pandas, and Seaborn.
 
+## 📊 Blinkit Dashboard Preview
+
+![Blinkit Dashboard Preview](./preview.mp4)
+
+
 ## 🛠️ Data Cleaning Highlights
 - **In-place Mutations:** Handled structural changes cleanly without redundant memory copies.
 - **Advanced Imputation:** Filled missing values in `Item Weight` using a group-by median transform strategy based on `Item Type`.
@@ -14,5 +19,5 @@ This project focuses on building a complete Data Cleaning and Exploratory Data A
 4. **Store Expansion Strategy:** Analyzed performance metrics across different store tiers and sizes to guide expansion decisions.
 
 ## 📈 Tech Stack Used
-- **Language:** Python
+- **Language:** Python, Power BI
 - **Libraries:** Pandas, NumPy, Seaborn, Matplotlib
